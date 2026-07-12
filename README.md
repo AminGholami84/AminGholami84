@@ -33,11 +33,8 @@ Frontend Developer passionate about building modern, responsive web applications
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AminGholami84&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminGholami84&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AminGholami84&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminGholami84&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -45,9 +42,8 @@ Frontend Developer passionate about building modern, responsive web applications
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AminGholami84&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AminGholami84&hide_border=true" />
 </p>
-
 ---
 
 ## 📫 Connect with Me
