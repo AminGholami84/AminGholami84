@@ -44,6 +44,8 @@ Frontend Developer passionate about building modern, responsive web applications
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AminGholami84&hide_border=true" />
 </p>
+
+
 ---
 
 ## 📫 Connect with Me
