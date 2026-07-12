@@ -50,18 +50,6 @@ Frontend Developer passionate about building modern, responsive web applications
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🍕 Pizza Palm | Responsive Pizza Restaurant Landing Page |
-| 🎬 Movie App | Movie search application built with React |
-| 🛒 E-commerce | Online shopping UI |
-| 🌤 Weather App | Weather forecast application |
-| 📋 Todo App | Task management application |
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
