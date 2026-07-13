@@ -25,7 +25,7 @@ Frontend Developer passionate about building modern, responsive web applications
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,vite,git,github,vscode,figma,npm" />
 </p>
 
 ---
