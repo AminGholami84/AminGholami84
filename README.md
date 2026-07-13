@@ -6,7 +6,7 @@ Frontend Developer passionate about building modern, responsive web applications
 
 <p align="center">
   <a href="https://github.com/AminGholami84">
-    <img src="https://komarev.com/ghpvc/?username=AminGholami84&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?          username=AminGholami84&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -53,3 +53,4 @@ Frontend Developer passionate about building modern, responsive web applications
 <p align="center">
 ✨ Thanks for visiting my profile! ✨
 </p>
+
